@@ -1,3 +1,3 @@
 # PY
 
-Aplicando algumas lógicas e cálculos em Pyton
+Aplicando lógicas e cálculos em Python
